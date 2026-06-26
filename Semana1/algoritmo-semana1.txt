@@ -1,0 +1,14 @@
+Cómo compartir información confiable en internet.
+
+1. Buscamos o recibimos un artículo, imagen, video o mensaje en redes sociales que capta nuestra atención
+    y consideramos que debería ser compartido.
+2. Leemos o visualizamos el contenido en su totalidad.
+3. Identificamos quién creó originalmente el contenido.
+4. Abrimos un buscador de internet y buscamos el tema principal.
+5. Evalúamos el tono del mensaje. Si el contenido utiliza lenguaje sensacionalista, mayúsculas excesivas 
+    o parece diseñado específicamente para generar miedo, rabia o indignación, encendemos las alertas.
+6. Tomamos una decisión lógica. Si la fuente es dudosa, la fecha es antigua, o no hay otras fuentes que 
+    lo confirmen debemos romper la cadena No compartiendo la información y, si es posible, adviertiendo a 
+    los demás. Si la información pasa todas las pruebas anteriores (es actual, verificable y de fuente 
+    confiable), avanzamos al último paso.
+7. Compartimos la información en redes o chats, asegúrandonos de incluir el enlace a la fuente original.

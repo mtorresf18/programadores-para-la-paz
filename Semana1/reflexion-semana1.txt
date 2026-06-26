@@ -1,0 +1,14 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la 
+ participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Respuesta: El uso de herramientas como Git nos permite aprender a trabajar en entornos responsables y de 
+            colaboración de manera respetuosa y responsable, habilidades necesarias en hoy en día al 
+            momento de ejercer participación ciudadana de forma activa. La mentalidad del codigo abierto
+            lleva consigo una constante colaboración para lograr entre todos lograr mejores resultados.
+            Este mismo escenario lo vemos al momento de participar activamente en las desiciónes de 
+            nuestras comunidades, ya que al igual que en el codigo, el fin ultimo de la misma es mejorar
+            constantemente mediante la colaboración y retroalimentaciones continuas de los miembros. Por
+            ejemplo, al igual que en Git, en la sociedad vemos conflictos que deben resolverse mediante 
+            el dialogo, en estos escenarios un uso responsable de la información ayuda a tener una base 
+            de hechos reales sobre la cual debatir, facilitando acuerdos en lugar de polarización.
+
