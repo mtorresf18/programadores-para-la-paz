@@ -1,0 +1,6 @@
+Repositorio: es una estructura de datos donde se guardan los archivos y la base de datos de control del versiones para contener el codigo fuente de 
+            un proyecto permitiendo que tengamos registro de todas las modificaciónes de realicemos desde el inicio del proyecto. 
+Commit: es un registro de cambios realizado aplicados a los archivos del repositorio. Toma las modificaciones realizadas por el usuario en un 
+        momento específico las consolida en el historial del proyecto junto con sus metadatos correspondientes.
+Push: Es las operación de red por la que se trasfieren los registros de los cambios recientes desde el entorno de desarrollo local hacia un servidor
+        remoto con el objetivo de sincronizar ambos repositorios.

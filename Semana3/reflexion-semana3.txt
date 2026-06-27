@@ -1,0 +1,10 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+
+Respuesta: Es importante, ya que este sistema funciona como un mecanismo infalible de recuperación de desastres; por ejemplo, si una nueva 
+            actualización introduce vulnerabilidades o colapsa el sistema en producción, el historial detallado permite revertir el código a un 
+            estado anterior completamente funcional de manera inmediata, evitando así incontables horas de revisión manual. Además, facilita la 
+            colaboración simultánea de múltiples desarrolladores sobre la misma base de código sin el riesgo de sobrescribir el trabajo ajeno, 
+            gestionando inteligentemente las modificaciones concurrentes y alertando sobre conflictos que requieran atención. Asimismo, garantiza 
+            una trazabilidad y auditoría estrictas, dado que cada línea modificada queda indexada de forma inmutable con su autor, fecha y 
+            justificación técnica, facilitando la comprensión de decisiones pasadas. Por otro lado, permite la experimentación aislada mediante 
+            ramificaciones, otorgando un entorno seguro para probar innovaciones sin comprometer la versión estable.
