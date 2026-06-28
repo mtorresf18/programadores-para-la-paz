@@ -1,0 +1,12 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en 
+    un servidor?
+
+Respuesta: La estabilidad y seguridad de un servidor son los pilares que garantizan la continuidad operativa y la confianza de las
+            comunidades en sus plataformas tecnológicas. Cuando un servidor funciona de manera estable, asegura que la plataforma 
+            esté disponible las 24 horas del día, permitiendo que los ciudadanos registren incidencias o consulten información 
+            crucial en el momento exacto en que lo necesitan, sin sufrir caídas de sistema que generen frustración y desinterés. 
+            Por otro lado, un servidor robustecido a nivel de seguridad digital blinda la infraestructura contra ciberataques que 
+            pretendan alterar datos comunitarios, tumbar el servicio o secuestrar información sensible. Esto es especialmente 
+            crítico en procesos participativos, donde la filtración de datos personales o el espionaje de reportes locales pondrían
+            en riesgo la integridad física y el anonimato de los propios vecinos. Si el servidor falla constantemente o es 
+            vulnerable a hackeos, se destruye la legitimidad del espacio virtual y la comunidad abandona la herramienta. 

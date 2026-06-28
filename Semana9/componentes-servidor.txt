@@ -1,0 +1,24 @@
+SISTEMA OPERATIVO
+- El Sistema Operativo es la capa base que gestiona el hardware y los recursos del sistema.
+- Permite que Node.js y las aplicaciones se ejecuten proporcionando servicios como gestión de memoria, procesos y archivos.
+- En este caso, estamos usando Linux (Ubuntu) dentro del contenedor de GitHub Codespaces.
+
+NODE.JS
+- Node.js es un entorno de ejecución para JavaScript que permite ejecutar código JS fuera del navegador.
+- Está basado en el motor V8 de Chrome y utiliza un modelo de E/S sin bloqueo y eventos asíncronos.
+- Node.js incluye npm (gestor de paquetes) que permite instalar librerías como Express.
+
+APLICACIÓN SERVER.JS
+- Es el archivo principal que contiene la lógica del servidor y define los endpoints de la API.
+- Configura el servidor Express con rutas específicas (GET / y GET /estado) y respuestas personalizadas.
+- server.js importa Express, define las rutas y finalmente inicia el servidor en el puerto 3000.
+
+PUERTO 3000
+- El puerto es un canal de comunicación que permite que las aplicaciones reciban conexiones entrantes.
+- Es como una "puerta" a través de la cual los clientes (navegadores, otras aplicaciones) se conectan al servidor.
+- El puerto 3000 es comúnmente usado en desarrollo y debe estar libre para que el servidor pueda iniciarse.
+
+LOGS
+- Los logs son mensajes que el servidor registra en la terminal durante su ejecución.
+- Ayudan a monitorear el estado del servidor, detectar errores y entender el flujo de ejecución.
+- En este caso, el log "Servidor ejecutándose en puerto 3000" indica que el servidor se inició correctamente.
