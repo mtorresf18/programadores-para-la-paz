@@ -1,0 +1,12 @@
+Qué hace esta ruta.
+
+Respuesta: esta ruta recibe datos en el cuerpo de la petición en formato JSON, extrayendo el campo (mensaje) y responde con un JSON 
+            {estado: "Reporte recibido", mensaje: mensaje}
+
+
+
+Para qué podría servir en una aplicación comunitaria.
+
+Respuesta: en una aplicación comunitaria esto sería de gran ayuda en la automatización de procesos como sistema de reportes donde los usuarios 
+            puedan enviar sus reportes de problemas o sugerencias, permitiendo un feedback de la comunidad y este recibba la confirmación mediante 
+            el metodo post con un JSON de estructura predeterminada

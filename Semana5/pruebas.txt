@@ -1,0 +1,9 @@
+Al abrir la ruta http://localhost:3000 de manera local o https://scaling-space-waddle-x5j6vqx5vq4j2p7vv-3000.app.github.dev/ en nuestro cospace
+    podemos ver que se imprime en pantalla el mensaje "Servidor Activo"
+
+Al abrir la ruta http://localhost:3000/saludo de manera local o https://scaling-space-waddle-x5j6vqx5vq4j2p7vv-3000.app.github.dev/saludo en nuestro
+    cospace podemos ver que se imprime en pantalla el mensaje "Hola Comunidad"
+
+Al abrir la ruta http://localhost:3000/mensaje/juan de manera local o 
+    https://scaling-space-waddle-x5j6vqx5vq4j2p7vv-3000.app.github.dev//mensaje/juan en nuestro cospace podemos ver que se imprime en pantalla el 
+    mensaje "Hola juan"
