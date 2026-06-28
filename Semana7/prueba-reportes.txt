@@ -1,0 +1,6 @@
+El servidor devuelve esta respuesta al enviar la petición POST ({"tipo": "Infraestructura", "descripcion": "Daño en alumbrado 
+    público"}) al servidor en ejecución: {"mensaje":"Reporte registrado","reporte":{"id":1,"tipo":"Infraestructura",
+    "descripcion":"Daño en alumbrado público"}}
+
+El servidor devuelve esta respuesta al enviar la petición POST (curl http://localhost:3000/reportes) al servidor en ejecución: 
+    [{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"}]
