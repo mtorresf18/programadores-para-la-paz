@@ -1,0 +1,5 @@
+El servidor devuelve esta respuesta al enviar la petición POST ({"tipo": "Iluminación pública", "descripcion": "La comunidad 
+    reporta que una lámpara del parque no funciona desde hace varios días."}) al servidor en ejecución: {"mensaje":"Incidencia 
+    registrada","tipo":"Iluminación pública","descripcion":"La comunidad reporta que una lámpara del parque no funciona desde 
+    hace varios días."}
+

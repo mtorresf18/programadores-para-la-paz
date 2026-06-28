@@ -1,0 +1,2 @@
+El servidor devuelve esta respuesta al enviar la petición POST ({"nombre": "Maria", "mensaje": "Hola comunidad"}) al servidor 
+    en ejecución: {"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}
