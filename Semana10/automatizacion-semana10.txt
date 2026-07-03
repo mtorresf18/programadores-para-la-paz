@@ -1,0 +1,9 @@
+Evento: Nuevo reporte registrado sobre infraestructura pública.
+
+Acción: Enviar mensaje automatizado a un grupo cerrado de Telegram.
+
+Mensaje: “¡Nuevo Reporte Comunitario Recibido! ID: #41029. Categoría: Falla de luminaria. Sector: Zona Norte. Revisar panel 
+            administrativo para asignación de prioridades.”
+
+Información que no debe enviarse: Nombres completos del ciudadano, números de documento de identidad, teléfonos, correos 
+                                    electrónicos, dirección exacta de domicilio o credenciales del sistema.

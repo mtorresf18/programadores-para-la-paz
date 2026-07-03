@@ -1,0 +1,24 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia en el sistema para dejar evidencia de un problema en mi comunidad.
+2. Como coordinador comunitario quiero recibir una notificación en Telegram cuando se registre un nuevo reporte para 
+    revisarlo oportunamente.
+
+¿Por qué son las más importantes?
+- La primera tarea es fundamental porque establece el mecanismo principal de captura de información. Sin esta funcionalidad, el 
+    sistema no puede recibir reportes de la comunidad.
+- La segunda tarea es igualmente importante porque garantiza que los coordinadores sean notificados en tiempo real cuando ocurre 
+    un evento, permitiendo una respuesta rápida y efectiva.
+- Estas dos tareas forman el núcleo del sistema: captura + notificación, que es el flujo principal de la solución.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+    Que una tarea esté "terminada" (Definition of Done) significa que la funcionalidad ya no es solo una idea en la computadora de
+    un desarrollador, sino un producto real, seguro y de calidad que el usuario final ya puede utilizar sin experimentar fallos. No 
+    basta con que el código "compile" o "corra en mi máquina"; debe estar integrado al proyecto global, documentado y listo para 
+    producción.
+
+Definición de Terminado:
+1. El código funciona correctamente y cumple con los criterios de aceptación definidos en la historia de usuario.
+2. La funcionalidad fue probada y verifica que no introduce errores en el sistema existente.
+3. Los cambios fueron registrados en Git con un mensaje descriptivo y el código está disponible en el repositorio.
+4. La documentación básica (si aplica) fue actualizada para reflejar los cambios realizados.
+5. La tarea fue revisada y aprobada por al menos otro miembro del equipo (si es trabajo colaborativo).
