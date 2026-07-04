@@ -1,0 +1,13 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y 
+protección de información?
+
+Respuesta: Una plataforma de participación ciudadana requiere una infraestructura robusta compuesta por una base de datos, 
+            autenticación y protección de información para garantizar su viabilidad, legitimidad y seguridad. La base de datos es 
+            el cimiento operativo; permite almacenar de forma organizada las propuestas, votos y reportes de la comunidad, 
+            asegurando que las demandas ciudadanas no se pierdan y puedan ser consultadas o auditadas de manera transparente. La 
+            autenticación de usuarios es el filtro democrático indispensable; valida que quienes participan sean ciudadanos reales 
+            y pertenezcan a la comunidad, evitando el fraude electrónico, la manipulación de votaciones mediante bots y el spam que 
+            deslegitimaría los procesos. La protección estricta de la información y los datos sensibles es el pilar de la confianza 
+            comunitaria; al blindar la plataforma contra filtraciones, se resguarda el anonimato y la integridad de los vecinos, 
+            quienes de lo contrario podrían sufrir represalias, acoso o fraudes por expresar sus opiniones. Sin este ecosistema 
+            técnico de respaldo, la herramienta digital sería vulnerable a ataques y desconfiada por la ciudadanía.

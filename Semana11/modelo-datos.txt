@@ -1,0 +1,46 @@
+Entidad: Causa
+
+Campos principales:
+- id: Número o identificador único (autoincrementable)
+- titulo: Texto breve que identifica la causa
+- descripcion: Texto detallado que explica el propósito de la causa
+- fecha_creacion: Fecha y hora en que se registró la causa
+- estado: Estado actual de la causa (activa, en proceso, finalizada)
+- creador: Identificador del usuario que creó la causa
+- categoria: Categoría de la causa (ambiente, infraestructura, social, etc.)
+
+Propósito:
+Guardar las causas comunitarias que los ciudadanos pueden visualizar y apoyar, permitiendo hacer seguimiento a cada iniciativa y mantener un historial de las mismas.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: Número o identificador único (autoincrementable)
+- causa_id: Identificador de la causa a la que se apoya (relación con Causa)
+- usuario: Nombre o identificador del usuario que apoya
+- fecha_apoyo: Fecha y hora en que se registró el apoyo
+- comentario: Texto opcional que el usuario puede agregar al apoyar
+
+Propósito:
+Registrar los apoyos que recibe cada causa, permitiendo medir el nivel de interés y participación de la comunidad, y haciendo visible el respaldo a cada iniciativa.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id: Número o identificador único (autoincrementable)
+- nombre_usuario: Nombre de usuario para login
+- correo: Correo electrónico del usuario (privado)
+- contraseña_hash: Hash de la contraseña (no se almacena en texto plano)
+- rol: Rol del usuario (ciudadano, coordinador, administrador)
+- fecha_registro: Fecha y hora en que se registró el usuario
+
+Propósito:
+Gestionar el acceso a la plataforma, permitiendo identificar a cada usuario y controlar qué acciones puede realizar según su rol, protegiendo así la información y funcionalidades sensibles.
+
+Relaciones entre entidades:
+- Un Usuario puede crear varias Causas (relación 1:N)
+- Un Usuario puede apoyar varias Causas (relación 1:N)
+- Una Causa puede recibir múltiples Apoyos (relación 1:N)
+- Cada Apoyo pertenece a una Causa específica (relación N:1)

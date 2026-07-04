@@ -1,0 +1,12 @@
+
+La interfaz contaría con un panel principal claro y accesible que incluye un formulario superior para crear una nueva causa 
+comunitaria, solicitando únicamente un título breve, la descripción de la problemática y la fecha del reporte.
+
+Debajo, se presentaría la vista de causas disponibles organizada en tarjetas cronológicas para que cualquier ciudadano pueda leer 
+las iniciativas activas de la comunidad.
+
+Cada tarjeta de causa incluiría un botón visible para apoyar la causa y, justo al lado, un contador de apoyos en tiempo real que 
+muestre el total de personas que respaldan la propuesta.
+
+El diseño de la interfaz mantendría un enfoque limpio y seguro, garantizando que el proceso sea completamente anónimo al no mostrar 
+en pantalla nombres, teléfonos, correos ni datos privados de los participantes.
