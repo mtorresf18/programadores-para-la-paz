@@ -1,0 +1,7 @@
+Evento: Una causa registrada alcanza la meta de apoyos definida.
+
+Mensaje: “La causa ID #41029 ha alcanzado la meta de apoyos requerida. Se ha generado automáticamente el documento PDF de la 
+            petición formal para su revisión en la plataforma.”
+
+Información que no debe enviarse: Nombres completos de los ciudadanos que apoyaron, firmas digitales, cédulas, correos 
+                                    electrónicos, teléfonos, o credenciales de administración de la plataforma.

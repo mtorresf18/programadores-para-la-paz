@@ -1,0 +1,16 @@
+Entidad: Causa
+
+* id: Identificador unico de cada causa en el sistema.
+* titulo: Nombre corto o resumen de la iniciativa comunitaria.
+* descripcion: Explicacion detallada de la problematica o propuesta.
+* fecha: Dia y hora en que se registro la causa.
+* Para que sirve: Almacena el registro principal de las iniciativas y propuestas colectivas que los ciudadanos publican en la plataforma para que otros puedan verlas.
+
+
+Entidad: Apoyo
+
+* id: Identificador unico de cada voto o respaldo.
+* causa_id: Enlace que conecta este apoyo con la causa especifica a la que pertenece.
+* nombre: Alias o nombre del ciudadano que respalda la causa.
+* fecha: Dia y hora en que se realizo la accion de apoyar.
+* Para que sirve: Registra cada muestra de respaldo individual de la comunidad hacia una causa, lo que permite al sistema sumar y mostrar el total de apoyos en tiempo real.
